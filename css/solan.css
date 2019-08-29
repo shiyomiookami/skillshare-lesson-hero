@@ -1,0 +1,62 @@
+body{
+    background-color: darkgrey;
+    margin: 0;
+    font-family: Helvetica;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+    Padding-bottom: 50px;
+}
+
+header h1{
+    color:white;
+    font-family: fantasy;
+    font-size: 100px;
+}
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 10px solid purple; 
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+main img{
+    max-width: 100%;
+    border: 10px inset purple;
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 30px;
+    color: black;
+    margin: 40px 0 40px;
+}
+
+a{
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover{
+    Background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 50px;
+    margin: 0;
+}
